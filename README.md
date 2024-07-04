@@ -6,3 +6,4 @@
 
 ## Contents
 [Installation Guide](Install.md)
+[YouTube Videos](osreview.md)
