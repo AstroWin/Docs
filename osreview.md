@@ -13,9 +13,8 @@ AstroOS is a stripped-down version of Windows, made by EnderDev.
 - **GitHub 💻**: [https://github.com/AstroWin](https://github.com/AstroWin)
 - **YouTube 📽️**: [https://youtube.com/@enderdevcom](https://youtube.com/@enderdevcom)
 - **Docs 📕**: [https://github.com/AstroWin/docs](https://github.com/AstroWin/docs)
-- 
+
 **Make sure to mention the youtube channel `@enderdevcom`**
-**Also, add the `#enderdevcom` tag on YouTube.**
 
 ## 💬 Comments
 
