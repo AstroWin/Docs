@@ -5,5 +5,6 @@
 # Documentation
 
 ## Contents
-[Installation Guide](Install.md)
+[Installation Guide](Install.md),
+
 [YouTube Videos](osreview.md)
